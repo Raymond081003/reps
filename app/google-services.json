@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "216314924752",
+    "firebase_url": "https://sales-and-inventory-4fe8d-default-rtdb.firebaseio.com",
+    "project_id": "sales-and-inventory-4fe8d",
+    "storage_bucket": "sales-and-inventory-4fe8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216314924752:android:4254777f807546fa67d8d5",
+        "android_client_info": {
+          "package_name": "com.company.finalreport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocFTl_fcMxG9H99ou0dF4rxYJ3bbrEBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216314924752:android:5bbf817070c9660c67d8d5",
+        "android_client_info": {
+          "package_name": "com.example.myreport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocFTl_fcMxG9H99ou0dF4rxYJ3bbrEBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216314924752:android:ae40cc1f3b6344a367d8d5",
+        "android_client_info": {
+          "package_name": "com.example.reps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDocFTl_fcMxG9H99ou0dF4rxYJ3bbrEBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
